@@ -17,7 +17,7 @@ To run this app locally, first clone this repository to your local machine...
 This command creates a new virtual environment with the name `.venv`:
 
 ```bash
-python3 -m venv .venv
+python3 -m venv venvv
 ```
 
 #### Activate the virtual environment
